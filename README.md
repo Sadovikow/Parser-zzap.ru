@@ -9,4 +9,4 @@
 ##### <a href="index.php">parseZZAP.php</a> - Парсинг данных с сайта zzap.ru
 
 
-<img src="example.png">
+<img src="image.png">
