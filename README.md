@@ -6,8 +6,8 @@
 
 Решение:
 ##### <a href="index.php">index.php</a><br>
-##### <a href="index.php">xlsPHP.php</a> - Считывание Артикулов
-##### <a href="index.php">parseZZAP.php</a> - Парсинг данных с сайта zzap.ru
+##### <a href="xlsPHP.php">xlsPHP.php</a> - Считывание Артикулов
+##### <a href="parseZZAP.php">parseZZAP.php</a> - Парсинг данных с сайта zzap.ru
 
 
 <img src="image.png">
